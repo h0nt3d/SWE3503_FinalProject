@@ -1,2 +1,2 @@
-# SWE3503_FinalProject
-SWE3503_FinalProject Repository
+# Software Requirements Specification
+(Student Course Registration System)
